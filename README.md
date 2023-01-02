@@ -12,6 +12,7 @@ This is a functional back end for an e-commerce website, it contains a working E
 - [Contact](#Contact)
 
 ## Screenshot
+<img width="1440" alt="Screenshot 2023-01-01 at 5 34 44 PM" src="https://user-images.githubusercontent.com/109640240/210188548-85f5b3b8-fe73-4547-b3d4-a9de15cc70d7.png">
 
 ## Installation
 Clone this [repo](https://github.com/FixieGemini/e-com-connect.git), open in VSCode, and then open your terminal or CLI to install dependencies.
